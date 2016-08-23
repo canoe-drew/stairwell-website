@@ -7,3 +7,6 @@
 [submodule "pico_multilanguage"]
 	path = pico_multilanguage
 	url = https://github.com/RichardMN/pico_multilanguage.git
+[submodule "Pico-Hide"]
+	path = Pico-Hide
+	url = https://github.com/ufgum/Pico-Hide.git
