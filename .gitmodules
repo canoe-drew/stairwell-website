@@ -4,3 +4,6 @@
 [submodule "Pico-Categorized-Pages"]
 	path = Pico-Categorized-Pages
 	url = https://github.com/RichardMN/Pico-Categorized-Pages.git
+[submodule "pico_multilanguage"]
+	path = pico_multilanguage
+	url = https://github.com/RichardMN/pico_multilanguage.git
