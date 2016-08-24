@@ -10,6 +10,3 @@
 [submodule "Pico-Hide"]
 	path = Pico-Hide
 	url = https://github.com/ufgum/Pico-Hide.git
-[submodule "stairwell-theme"]
-	path = stairwell-theme
-	url = https://github.com/canoe-drew/stairwell-theme.git
