@@ -69,14 +69,6 @@ Page_Ignore: false
 		</form>
       </div>
 	</div>
-	<div class="row">
-      <div class="col-xs-12 col-sm-8">
-		<p>Buy from <i class="fa fa-apple" aria-hidden="true"></i> iTunes</p>
-      </div>
-      <div class="col-xs-12 col-sm-4">
-		<a class="btn btn-primary" href="https://itunes.apple.com/ca/album/audite-nova/id573406796"><i class="fa fa-apple" aria-hidden="true"></i> iTunes</a>
-      </div>
-	</div>
   </div>		
   <div id="tracklisting" class="tab-pane">
 	<ol>
