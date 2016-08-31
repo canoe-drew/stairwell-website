@@ -44,7 +44,7 @@ Page_Ignore: false
 		  <input type="hidden" name="shipping" value="0.00">
 		  <input type="hidden" name="add" value="1">
 		  <input type="hidden" name="bn" value="PP-ShopCartBF:PURCHASEMP3.png:NonHosted">
-		  <button class="btn btn-primary" type="submit" >Pay with PayPal</button>
+		  <button class="btn btn-primary" type="submit" >Acheter avec PayPal</button>
 		</form>
      </div>
 	</div>
@@ -66,7 +66,7 @@ Page_Ignore: false
 		  <input type="hidden" name="cancel_return" value="%base_url%">
 		  <input type="hidden" name="currency_code" value="CAD">
 		  <input type="hidden" name="bn" value="PP-ShopCartBF">
-		  <button class="btn btn-primary" type="submit" >Pay with PayPal</button>
+		  <button class="btn btn-primary" type="submit" >Acheter avec PayPal</button>
 		</form>
       </div>
 	</div>
