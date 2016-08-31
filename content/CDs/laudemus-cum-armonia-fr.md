@@ -1,7 +1,7 @@
 ---
 Title: Laudemus cum armonia
 Description: Stairwell Carollers' fifth CD (1997)
-Language: en
+Language: fr
 pid: laudemus
 Hiding: 1
 Position: 5
@@ -16,21 +16,22 @@ Page_Ignore: false
 <img alt="Laudemus cum armonia" src="%base_url%/assets/LaudemusCumArmonia-cover.jpg" class="cd-cover-image">
 </div>
 
-*Winter scene by Denyse Mageau.*
+*Panorame d'hiver par Denyse Mageau.*
 
 <ul class="nav nav-tabs">
-  <li class="active"><a data-toggle="tab" href="#purchase">Purchase</a></li>
-  <li><a data-toggle="tab" href="#tracklisting">Track Listing</a></li>
-  <li><a data-toggle="tab" href="#samples">Sample Tracks</a></li>
+<li class="active"><a data-toggle="tab" href="#purchase">Achats</a></li>
+<li><a data-toggle="tab" href="#tracklisting">Liste des chansons</a></li>
+<li><a data-toggle="tab" href="#samples">Écouter les extraits</a></li>
 </ul>
 
 <div class="tab-content">
   <div id="purchase" class="tab-pane active">
 	<div class="row">
       <div class="col-xs-12 col-sm-8">
-		<p>Purchase MP3
-		  <br>An email will follow with the download link in a few days.<br>Liner notes are also included.</p>
-      </div>
+        <p>Acheter le  MP3<br>
+    		  Un email suivra avec un lien de téléchargement dans quelques jours.<br>
+    		Notes d'accompagnement sont incluses.</p>
+            </div>
       <div class="col-xs-12 col-sm-4">
 		<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 		  <input type="hidden" name="cmd" value="_cart">
@@ -48,13 +49,13 @@ Page_Ignore: false
 		  <input type="hidden" name="shipping" value="0.00">
 		  <input type="hidden" name="add" value="1">
 		  <input type="hidden" name="bn" value="PP-ShopCartBF:PURCHASEMP3.png:NonHosted">
-		  <button class="btn btn-primary" type="submit" >Pay with PayPal</button>
+		  <button class="btn btn-primary" type="submit" >Acheter avec PayPal</button>
 		</form>
       </div>
 	</div>
 	<div class="row">
       <div class="col-xs-12 col-sm-8">
-		<p>Purchase CD</p>
+		<p>Acheter le CD</p>
       </div>
       <div class="col-xs-12 col-sm-4">
 		<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -69,40 +70,42 @@ Page_Ignore: false
 		  <input type="hidden" name="cancel_return" value="%base_url%">
 		  <input type="hidden" name="currency_code" value="CAD">
 		  <input type="hidden" name="bn" value="PP-ShopCartBF">
-		  <button class="btn btn-primary" type="submit" >Pay with PayPal</button>
+		  <button class="btn btn-primary" type="submit" >Acheter avec PayPal</button>
 		</form>
       </div>
 	</div>
-</div>
+
+  </div>
   <div id="tracklisting" class="tab-pane">
-  	<ol>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#1">Joy to the World</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#2">Eya, eya, gaudeamus</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#3">The Wild Wood Carol</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#4">Dans cette étable</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#5">The Angels and the Shepherds</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#6">Away in a Manger</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#7">Ça, bergers, assemblons nous</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#8">Candlelight Carol</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#9">Alleluja, freuet euch ihr Christen alle</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#10">Remember O Thou Man</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#11">I Sing of A Maiden</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#12">Les anges dans nos campagnes</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#13">Christe, Redemptor omnium</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#14">We Three Kings</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#15">The Stairwell Carol</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#16">Mon beau sapin</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#17">Travellers Three</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#18">Joys Seven</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#19">Laudemus cum armonia</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#20">Tomorrow Shall Be My Dancing Day</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#21">Ô Nuit</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#22">O Little Town of Bethlehem</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#23">Resonet in laudibus</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#24">There Stood in Heaven a Linden Tree</a></li>
-  <li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#25">O Holy Night/Minuit, chrétiens</a></li>
-</ol>
-</div>
+	<ol>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#1">Joy to the World</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#2">Eya, eya, gaudeamus</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#3">The Wild Wood Carol</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#4">Dans cette étable</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#5">The Angels and the Shepherds</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#6">Away in a Manger</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#7">Ça, bergers, assemblons nous</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#8">Candlelight Carol</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#9">Alleluja, freuet euch ihr Christen alle</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#10">Remember O Thou Man</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#11">I Sing of A Maiden</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#12">Les anges dans nos campagnes</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#13">Christe, Redemptor omnium</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#14">We Three Kings</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#15">The Stairwell Carol</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#16">Mon beau sapin</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#17">Travellers Three</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#18">Joys Seven</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#19">Laudemus cum armonia</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#20">Tomorrow Shall Be My Dancing Day</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#21">Ô Nuit</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#22">O Little Town of Bethlehem</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#23">Resonet in laudibus</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#24">There Stood in Heaven a Linden Tree</a></li>
+<li><a href="%base_url%/CDs/laudemus-cum-armonia-lyrics#25">O Holy Night/Minuit, chrétiens</a></li>
+
+	</ol>
+  </div>
 
   <div id="samples" class="tab-pane">
 	<dl>
@@ -123,4 +126,5 @@ Page_Ignore: false
 	  <dd>arr. Pierre Massie</dd>
 	</dl>
   </div>
+
 </div>
