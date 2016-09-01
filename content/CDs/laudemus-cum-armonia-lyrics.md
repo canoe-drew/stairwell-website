@@ -80,7 +80,7 @@ Laetemur hodie,<br>
 Laetemur itaque,<br>
 Regi parvulo.</p>
 <p>
-Eya, eya,<br>	
+Eya, eya,<br>
 Festa dies,<br>
 Eya, eya,<br>
 Gaudent montes,<br>
@@ -142,7 +142,7 @@ Et tout l'enfer dompté<br>
 Font voir qu'à sa naissance<br>
 Rien n'est si redouté<br>
 Que sa puissance.</p>
-<p>  	
+<p>
 Heureux mystère<br>
 Jésus souffrant pour nous<br>
 D'un Dieu sévère<br>
@@ -740,21 +740,21 @@ This have I done for my true love, for my true love.</i></p>
 Jean-Philippe Rameau</p>
 <div class="lyric-text">
 <p>
-Ô Nuit!  
+Ô Nuit!
 Quil est profond ton silence, <br>
 Quand les étoiles dor scintillent dans les cieux.<br>
-Jaime ton manteau radieux. <br> 
+Jaime ton manteau radieux. <br>
 Si doux est le concert de tes vois chantant lespérance. <br>
 Si grand est ton pouvoir.  Transformant tout en rêve.</p>
 <p>
-Ô Nuit!  
+Ô Nuit!
 Viens apporter á la terre <br>
 Le calme enchantement de ton mystère. <br>
-Lombre qui tescorte est si douce.<br> 
+Lombre qui tescorte est si douce.<br>
 Est-il une beauté aussi belle que le rêve.<br>
 Est-il de vérité plus douce que lespérance.</p>
 <p>
-Ô Nuit!  
+Ô Nuit!
 Toi qui fais naître les songes, <br>
 Calme le malheureux qui souffre en son réduit<br>
 Sois compatissante pour lui; <br>
@@ -834,7 +834,7 @@ arr/harm: Pierre Massie</p>
 <p>
 O holy night! The stars are brightly shining,<br>
  it is the night of the dear Saviours birth.<br>
-Long lay the world in sin and error pining,<br> 
+Long lay the world in sin and error pining,<br>
 Till he appeared, and the soul felt its worth.<br>
 A thrill of hope the weary world rejoices, <br>
 For yonder breaks a new and glorious morn;<br>
@@ -848,10 +848,10 @@ Pour effacer la tache originelle<br>
 Et de son père arrêter le courroux.<br>
 Le monde entier tressaille despérance <br>
 En cette nuit qui lui donne un sauveur.<br>
-Peuple á genoux, Attends ta délivrance! <br> 
+Peuple á genoux, Attends ta délivrance! <br>
 Noël!  Noël! Voici le Rédempteur!<br>
 Noël!  Noël! Voici le Rédempteur!<br>
-Peuple á genoux, Attends ta délivrance!<br>  
+Peuple á genoux, Attends ta délivrance!<br>
 Noël!  Noël! Voici le Rédempteur!<br>
 Noël!  Noël! Voici le Rédempteur!</p>
 </div>

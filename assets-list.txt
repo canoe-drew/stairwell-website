@@ -23,7 +23,7 @@ Geoff.jpg
 ISaw.mp3
 ISawASweteSemlySyght-cover.jpg
 IlestNe.mp3
-Immigrant Services-banner.jpg
+Immigrant Services-carousel.jpg
 Immigrant Services.jpg
 In dulci jubilo.mp3
 Joy.mp3
@@ -40,7 +40,7 @@ Noel nouvelet.mp3
 NoelNouvelet-cover.jpg
 Nouvelle agreable.mp3
 O Tannenbaum.mp3
-OMagnumMysterium-cover-banner.jpg
+OMagnumMysterium-cover-carousel.jpg
 OMagnumMysterium-cover.jpg
 Once in Royal David's City.mp3
 Oyseaux.mp3
@@ -50,11 +50,11 @@ Quelle est.mp3
 QuiCreavit.mp3
 QuiCreavitCelum-cover.jpg
 Richard and Isabelle.jpg
-SCinRideauChapel-banner.jpg
+SCinRideauChapel-carousel.jpg
 SCinRideauChapel.jpg
 Selina.jpg
 Spotless Rose.mp3
-Spring Concert 2016 - Almonte-banner.jpg
+Spring Concert 2016 - Almonte-carousel.jpg
 Spring Concert 2016 - Almonte.jpg
 WeWishYou.mp3
 deck.mp3

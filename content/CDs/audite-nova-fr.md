@@ -1,7 +1,7 @@
 ---
 Title: Audite Nova
 Description: Stairwell Carollers' first CD (1997)
-Language: en
+Language: fr
 pid: audite
 Hiding: 1
 Position: 4
@@ -15,17 +15,18 @@ Page_Ignore: false
 
   <img alt="Audite Nova" src="%base_url%/assets/AuditeNova-cover.jpg" class="cd-cover-image"></div>
 <ul class="nav nav-tabs">
-  <li class="active"><a data-toggle="tab" href="#purchase">Purchase</a></li>
-  <li><a data-toggle="tab" href="#tracklisting">Track Listing</a></li>
-  <li><a data-toggle="tab" href="#samples">Sample Tracks</a></li>
+  <li class="active"><a data-toggle="tab" href="#purchase">Achats</a></li>
+  <li><a data-toggle="tab" href="#tracklisting">Liste des chansons</a></li>
+  <li><a data-toggle="tab" href="#samples">Écouter les extraits</a></li>
 </ul>
 
 <div class="tab-content">
   <div id="purchase" class="tab-pane active">
 	<div class="row">
       <div class="col-xs-12 col-sm-8">
-		<p>Purchase MP3
-		  <br>An email will follow with the download link in a few days.<br>Liner notes are also included.</p>
+		<p>Acheter le  MP3<br>
+		  Un email suivra avec un lien de téléchargement dans quelques jours.<br>
+		Notes d'accompagnement sont incluses.</p>
       </div>
       <div class="col-xs-12 col-sm-4">
 		<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -44,13 +45,13 @@ Page_Ignore: false
 		  <input type="hidden" name="shipping" value="0.00">
 		  <input type="hidden" name="add" value="1">
 		  <input type="hidden" name="bn" value="PP-ShopCartBF:PURCHASEMP3.png:NonHosted">
-		  <button class="btn btn-primary" type="submit" >Pay with PayPal</button>
+		  <button class="btn btn-primary" type="submit" >Acheter avec PayPal</button>
 		</form>
      </div>
 	</div>
 	<div class="row">
       <div class="col-xs-12 col-sm-8">
-		<p>Purchase CD</p>
+		<p>Acheter le CD</p>
       </div>
       <div class="col-xs-12 col-sm-4">
 		<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
@@ -65,11 +66,11 @@ Page_Ignore: false
 		  <input type="hidden" name="cancel_return" value="%base_url%">
 		  <input type="hidden" name="currency_code" value="CAD">
 		  <input type="hidden" name="bn" value="PP-ShopCartBF">
-		  <button class="btn btn-primary" type="submit" >Pay with PayPal</button>
+		  <button class="btn btn-primary" type="submit" >Acheter avec PayPal</button>
 		</form>
       </div>
 	</div>
-  </div>		
+  </div>
   <div id="tracklisting" class="tab-pane">
 	<ol>
 <li><a href="%base_url%/CDs/audite-nova-lyrics#1">Amor Vittorioso</a></li>
@@ -113,22 +114,21 @@ Page_Ignore: false
 	<dd><audio controls name="Cucú, cucú!" style="max-width: 100%; max-height: 100%;">
 		<source src="%base_url%/assets/Cucu.mp3" type="audio/mpeg">
 	</audio></dd>
-	<dd>Composer: Juan del Encina (1464-1523)</dd>
+	<dd>Compositeur: Juan del Encina (1464-1523)</dd>
 	<dt>Le chant des oyseaux</dt>
 	<dd><audio controls name="Le chant des oyseaux" style="max-width: 100%; max-height: 100%;">
 		<source src="%base_url%/assets/Oyseaux.mp3" type="audio/mpeg">
 	</audio></dd>
-	<dd>Composer: Clément Janequin (c.1485-1558)</dd>
+	<dd>Compositeur: Clément Janequin (c.1485-1558)</dd>
 	<dt>Il bianco e dolce cigno</dt>
 	<dd><audio controls name="Il bianco e dolce cigno" style="max-width: 100%; max-height: 100%;">
 		<source src="%base_url%/assets/ilbianco.mp3" type="audio/mpeg">
 	</audio></dd>
-	<dd>Composer: Jacques Arcadelt (1500-1568)</dd>
+	<dd>Compositeur: Jacques Arcadelt (1500-1568)</dd>
 	<dt>A little pretty bonny lass</dt>
 	<dd><audio controls name="A little pretty bonny lass" style="max-width: 100%; max-height: 100%;">
 		<source src="%base_url%/assets/pretty.mp3" type="audio/mpeg">
 	</audio></dd>
-	<dd>Composer: John Farmer (c. 1565-1605)</dd>
+	<dd>Compositeur: John Farmer (c. 1565-1605)</dd>
   </dl>
 </div>
-

@@ -1,7 +1,7 @@
 ---
 Title: O magnum mysterium
 Description: Stairwell Carollers' sixth CD (1997)
-Language: en
+Language: fr
 pid: o-magnum
 Position: 7
 Page_Ignore: false
@@ -16,38 +16,36 @@ Hiding: 1
 
 </div>
 <ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#purchase">Purchase</a></li>
-<li><a data-toggle="tab" href="#reviews">Reviews</a></li>
-<li><a data-toggle="tab" href="#tracklisting">Track Listing</a></li>
-<li><a data-toggle="tab" href="#samples">Sample Tracks</a></li>
-</ul>
+<li class="active"><a data-toggle="tab" href="#purchase">Achats</a></li>
+<li><a data-toggle="tab" href="#reviews">Critiques</a></li>
+<li><a data-toggle="tab" href="#tracklisting">Liste des chansons</a></li>
+<li><a data-toggle="tab" href="#samples">Écouter les extraits</a></li>
+<</ul>
 
 <div class="tab-content">
-<div id="purchase" class="tab-pane active">
-  <div class="row">
-      <div class="col-xs-12 col-sm-8">
-    <p>Purchase CD</p>
-      </div>
-      <div class="col-xs-12 col-sm-4">
-    <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-      <input type="hidden" name="add" value="1">
-      <input type="hidden" name="cmd" value="_cart">
-      <input type="hidden" name="business" value="carollers@rogers.com">
-      <input type="hidden" name="item_name" value="O Magnum Mysterium">
-      <input type="hidden" name="item_number" value="SC15-12">
-      <input type="hidden" name="amount" value="18.00">
-      <input type="hidden" name="no_shipping" value="2">
-      <input type="hidden" name="return" value="%base_url%">
-      <input type="hidden" name="cancel_return" value="%base_url%">
-      <input type="hidden" name="currency_code" value="CAD">
-      <input type="hidden" name="bn" value="PP-ShopCartBF">
-      <button class="btn btn-primary" type="submit" >Pay with PayPal</button>
-    </form>
-      </div>
+  <div id="purchase" class="tab-pane active">
+  	<div class="row">
+        <div class="col-xs-12 col-sm-8">
+  		<p>Acheter le CD</p>
+        </div>
+        <div class="col-xs-12 col-sm-4">
+  		<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+  		  <input type="hidden" name="add" value="1">
+  		  <input type="hidden" name="cmd" value="_cart">
+  		  <input type="hidden" name="business" value="carollers@rogers.com">
+  		  <input type="hidden" name="item_name" value="O Magnum Mysterium">
+  		  <input type="hidden" name="item_number" value="SC15-12">
+  		  <input type="hidden" name="amount" value="18.00">
+  		  <input type="hidden" name="no_shipping" value="2">
+  		  <input type="hidden" name="return" value="%base_url%">
+  		  <input type="hidden" name="cancel_return" value="%base_url%">
+  		  <input type="hidden" name="currency_code" value="CAD">
+  		  <input type="hidden" name="bn" value="PP-ShopCartBF">
+  		  <button class="btn btn-primary" type="submit" >Acheter avec PayPal</button>
+  		</form>
+        </div>
+  	</div>
   </div>
-</div>
-
-</div>
 
 <div id="reviews" class="tab-pane">
 
@@ -112,7 +110,7 @@ contemplation on the mystery of Christ’s birth and rings out with joyful ‘Al
 	<dd><audio controls name="In dulci jubilo" style="max-width: 100%; max-height: 100%;">
 <source src="%base_url%/assets/In dulci jubilo.mp3" type="audio/mpeg">
 	</audio></dd>
-	<dd>Old German Carol, arr: R.L. Pearsall</dd>
+	<dd>Allemand, harmonisation de R.L. Pearsall</dd>
 		<dt>Once in Royal David's City</dt>
 	<dd><audio controls name="Once in Royal David's City" style="max-width: 100%; max-height: 100%;">
 <source src="%base_url%/assets/Once in Royal David's City.mp3" type="audio/mpeg">
@@ -122,13 +120,13 @@ contemplation on the mystery of Christ’s birth and rings out with joyful ‘Al
 	<dd><audio controls name="Nouvelle agreable" style="max-width: 100%; max-height: 100%;">
 <source src="%base_url%/assets/Nouvelle agreable.mp3" type="audio/mpeg">
 	</audio></dd>
-	<dd>Arr: Pierre Massie</dd>
+	<dd>Harmonisation de Pierre Massie</dd>
 			<dt>Dormi Jesu</dt>
 	<dd><audio controls name="Dormi Jesu" style="max-width: 100%; max-height: 100%;">
 <source src="%base_url%/assets/Dormi Jesu.mp3" type="audio/mpeg">
 	</audio></dd>
-	<dd>Arr: John Rutter</dd>
+	<dd>Harmonisation de John Rutter</dd>
   </dl>
 </div>
 
-<div
+<div>

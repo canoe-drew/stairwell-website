@@ -623,32 +623,32 @@ Reveillez vous cueurs endormis, <br>
 Le dieu d'amour vous sonnes</p>
 </div>
 <h4>18. <a name="18">Of all the birds that I do know</a></h4>
-	<p>John Bartlet (fl. 1604-1610)</p>
-	<div class="lyric-text">
+<p>John Bartlet (fl. 1604-1610)</p>
+<div class="lyric-text">
 <p>Of all the byrdes that I doe know,<br>
 Phillip my Sparow hath no peare:<br>
 For sit she high or lye she lowe,<br>
 Be shee farre off, or be shee neare,<br>
 There is no byrde so fayre, so fine,<br>
 Nor yet so freshe as this of myne.</p>
-	  	<p>
+<p>
 For when she once hath felt a fitte,<br>
 Phillip will crie still, yit, yit, yit.</p>
-	  	<p>
+<p>
 Come in a morning merrily,<br>
 When Phillip hath bene lately fed,<br>
 Or in an evening soberlye,<br>
 When Phillip lyst to goe to bed:<br>
 It is a heav'n to heare my Phippe,<br>
 Howe she can chirpe with chery lippe.</p>
-	  	<p>
+<p>
 She never wanders farre abroade,<br>
 But is at hand when I doe call:<br>
 If I commaund shee layes on loade,<br>
 With lips, with teeth, with tongue and all.<br>
 She chants, she chirpes, she makes such cheere,<br>
 That I believe she hath no peere.</p>
-	  	<p>Wherefore I sing and ever shall,<br>
+<p>Wherefore I sing and ever shall,<br>
 To prayse as I have often prov'd <br>
 There is no byrd amongst them all,<br> 
 So worthy for to be belov'd. <br>
@@ -1010,8 +1010,8 @@ Saul's fierce spirit!</p>
   </div>
 
 <h4>28. <a name="28">A little pretty bonny lass</a></h4>
-	<p>John Farmer (c. 1565-1605)</p>
-	<div class="lyric-text">
+<p>John Farmer (c. 1565-1605)</p>
+<div class="lyric-text">
 <p>A little pretty bonny lass was walking <br>
 In midst of May, before the Sun 'gan rise:<br>
 I took her by the hand and fell to talking <br>
@@ -1039,8 +1039,8 @@ Autre soulas ne chercher.</p>
 </div>
 
 <h4>30. <a name="30">Say, love if ever thou didst find</a></h4>
-	<p>John Dowland (1562-1626)</p>
-	<div class="lyric-text">
+<p>John Dowland (1562-1626)</p>
+<div class="lyric-text">
 <p>Say, Love, if ever thou didst find<br>
 A woman with a constant mind?<br>
 None but one.<br>
@@ -1157,8 +1157,8 @@ lovely lady, be mine; <br>
 </div>
 
 <h4>32. <a name="32">Fair Phyllis I saw</a></h4>
-	<p>John Farmer (c. 1570)</p>
-	<div class="lyric-text">
+<p>John Farmer (c. 1570)</p>
+<div class="lyric-text">
 <p>Fair Phyllis I saw sitting all alone, <br>
 Feeding her flock near to the mountainside. <br>
 The shepherds knew not whither she was gone, <br>

@@ -60,20 +60,20 @@ Hiding: 1
               <!-- Carousel items -->
               <div class="carousel-inner">
 				<div class="active item" data-slide-number="0">
-                  <img src="assets/SCinRideauChapel-banner.jpg"></div>
+                  <img src="assets/SCinRideauChapel-carousel.jpg"></div>
 				<div class="item" data-slide-number="1">
-                  <img src="assets/Immigrant Services-banner.jpg"></div>
+                  <img src="assets/Immigrant Services-carousel.jpg"></div>
 				<div class="item" data-slide-number="2">
-                  <img src="assets/OMagnumMysterium-cover-banner.jpg"></div>
+                  <img src="assets/OMagnumMysterium-cover-carousel.jpg"></div>
 				<div class="item" data-slide-number="3">
-                  <img src="assets/Spring Concert 2016 - Almonte-banner.jpg"></div>
+                  <img src="assets/Spring Concert 2016 - Almonte-carousel.jpg"></div>
               </div><!-- Carousel nav -->
               <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-				<span class="glyphicon glyphicon-chevron-left"></span>                                       
+				<span class="glyphicon glyphicon-chevron-left"></span>
               </a>
               <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-				<span class="glyphicon glyphicon-chevron-right"></span>                                       
-              </a>                                
+				<span class="glyphicon glyphicon-chevron-right"></span>
+              </a>
 			</div>
           </div>
 		</div>
