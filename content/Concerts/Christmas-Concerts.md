@@ -31,6 +31,7 @@ Saturday, December 17th - St Columba Anglican Church
 <form role="form" class="form-inline" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="N4WK8SBEA7JML">
+<input type="hidden" name="charset" value="utf-8">
 <div class="form-group">
   <label for="os0"><input type="hidden" name="on0" value="Location">Choose a location:</label>
   <select name="os0">

@@ -32,8 +32,9 @@ Pour ces deux représentations seulement, vous pouvez vous procurer des billets 
 <form role="form" class="form-inline" target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="LKCNBJD4QYVW2">
+<input type="hidden" name="charset" value="utf-8">
 <div class="form-group">
-  <label for="os0"><input type="hidden" name="on0" value="Location">Choisissez un endroit:</label>
+  <label for="os0"><input type="hidden" name="on0" value="Endroit">Choisissez un endroit:</label>
   <select name="os0">
 	<option value="Église presbytérienne Knox">Église presbytérienne Knox </option>
 	<option value="Église St-Columba">Église St-Columba </option>
