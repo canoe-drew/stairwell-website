@@ -20,21 +20,26 @@
  * BASIC
  */
 $config['site_title'] = 'Stairwell Carollers';              // Site title
-$config['site_title_en'] = 'Stairwell Carollers';              // Site title
-$config['site_title_fr'] = 'Chanteurs Stairwell';              // Site title
 // $config['base_url'] = '';                    // Override base URL (e.g. http://example.com)
 //$config['rewrite_url'] = null;               // A boolean indicating forced URL rewriting
+
+/*
+ * Multilingual site titles
+ */
+$config['site_titles'] = array();
+$config['site_titles']['en'] = 'The Stairwell Carollers';              // Site title - English
+$config['site_titles']['fr'] = 'Les Chanteurs Stairwell';              // Site title - French
 
 /*
  * THEME
  */
 //$config['theme'] = 'default';                // Set the theme (defaults to "default")
 $config['theme'] = 'stairwell';                // Set the theme (defaults to "default")
-// $config['twig_config'] = array(              // Twig settings
-//     'cache' => false,                        // To enable Twig caching change this to a path to a writable directory
-//     'autoescape' => false,                   // Auto-escape Twig vars
-//     'debug' => false                         // Enable Twig debug
-// );
+ /*$config['twig_config'] = array(              // Twig settings
+     'cache' => false,                        // To enable Twig caching change this to a path to a writable directory
+     'autoescape' => false,                   // Auto-escape Twig vars
+     'debug' => true                         // Enable Twig debug
+ );*/
 
 /*
  * CONTENT
@@ -54,16 +59,8 @@ $config['theme'] = 'stairwell';                // Set the theme (defaults to "de
  * PLUGINS
  */
 // $config['DummyPlugin.enabled'] = false;      // Force DummyPlugin to be disabled
-// $config['theme'] = 'clean-blog';
-// $config['pages_order_by'] = 'date';
-// $config['pages_order'] = 'desc';
-
-//$config['zz_pico_debug.enabled'] = FALSE;
-//$config['zz_pico_debug']['php_errors'] = TRUE;
 
 // $config['author'] = 'Stairwell Carollers';
-$config['facebook'] = 'https://www.facebook.com/StairwellCarollers';
-$config['twitter'] = '@stairwellchoir';
 
 /*
  * CUSTOM
@@ -71,11 +68,8 @@ $config['twitter'] = '@stairwellchoir';
 // $config['custom_setting'] = 'Hello';         // Can be accessed by {{ config.custom_setting }} in a theme
 
 
-/* $config['social'] = (	'https://twitter.com/StairwellChoir' => 'twitter', 
-						'http://www.youtube.com/user/StairwellCarollers' => 'youtube' 
-						'https://www.facebook.com/TheStairwellCarollers' => 'facebook' 
-						'http://www.stairwellcarollers.blogspot.com/' => 'blogspot' 
-						'http://www.pinterest.com/stairwellcarol/' => 'pinterest' );  */
+
+
 
 /*
  * Site-wide meta keywords
@@ -94,7 +88,7 @@ $config['PicoMenuHiding.enabled'] = true;
 
 $config['PicoMultiLanguage.enabled'] = true;
 
-/* 
+/*
  * Set up for the at_navigation plugin
  * https://github.com/ahmet2106/pico-navigation
  */

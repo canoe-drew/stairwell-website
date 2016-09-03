@@ -11,8 +11,8 @@ Hiding: 1
 
 <div class="jumbotron">
   <h1><a href="%base_url%/?about" >The Stairwell Carollers</a></h1>
-  <p>	The Stairwell Carollers are an <i>a cappella</i> Ottawa choir, who sing
-	sacred and secular music, as well as settings of
+  <p>	The Stairwell Carollers are an <i>a cappella</i> Ottawa choir who sing
+	sacred and secular music as well as settings of
 	traditional and new Christmas carols.</p>
   <p>Winners of the 2013 OMFA provincial competition,
 	this non-profit group has given $128,319
