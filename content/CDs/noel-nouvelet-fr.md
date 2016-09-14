@@ -36,7 +36,8 @@ Page_Ignore: false
 		  <input type="hidden" name="cmd" value="_cart">
 		  <input type="hidden" name="business" value="carollers@rogers.com">
 		  <input type="hidden" name="lc" value="CA">
-		  <input type="hidden" name="item_name" value="Noel nouvelet MP3">
+			<input type="hidden" name="charset" value="utf-8">
+		  <input type="hidden" name="item_name" value="Noël nouvelet MP3">
 		  <input type="hidden" name="item_number" value="SC05-08">
 		  <input type="hidden" name="amount" value="10.00">
 		  <input type="hidden" name="currency_code" value="CAD">
@@ -61,7 +62,8 @@ Page_Ignore: false
 		  <input type="hidden" name="add" value="1">
 		  <input type="hidden" name="cmd" value="_cart">
 		  <input type="hidden" name="business" value="carollers@rogers.com">
-		  <input type="hidden" name="item_name" value="Noel nouvelet">
+		  <input type="hidden" name="charset" value="utf-8">
+			<input type="hidden" name="item_name" value="Noël nouvelet">
 		  <input type="hidden" name="item_number" value="SC05-08">
 		  <input type="hidden" name="amount" value="15.00">
 		  <input type="hidden" name="no_shipping" value="2">
