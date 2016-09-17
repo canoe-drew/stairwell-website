@@ -1,5 +1,5 @@
 ---
-Title: Stairwell Carollers
+Title: Les Chanteurs Stairwell
 Description: A cappella Ottawa-area Choir
 Language: fr
 pid: splash
