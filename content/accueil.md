@@ -24,7 +24,6 @@ Hiding: 1
   <p>The Stairwell Carollers are bilingual - this page is also available <a href="%base_url%/?index">in English</a></p>
 </div>
 
-<div class="container">
   <div id="main_area">
     <!-- Slider -->
     <div class="row">
@@ -80,4 +79,3 @@ Hiding: 1
       </div><!--/Slider-->
 	</div>
   </div>
-</div>

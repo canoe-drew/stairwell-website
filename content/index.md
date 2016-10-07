@@ -20,7 +20,7 @@ Hiding: 1
 	They are ranked amongst the best of Ottawa choirs.</p>
   <p>Notre choeur est bilingue - ce page est également disponible <a href="%base_url%/?accueil">en français</a>.</p>
 </div>
-<div class="container">
+
   <div id="main_area">
     <!-- Slider -->
     <div class="row">
@@ -83,4 +83,3 @@ Hiding: 1
       </div>
     </div><!--/Slider-->
   </div>
-</div>
