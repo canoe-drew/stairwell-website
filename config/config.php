@@ -67,7 +67,7 @@ $config['theme'] = 'stairwell';                // Set the theme (defaults to "de
  */
 // $config['custom_setting'] = 'Hello';         // Can be accessed by {{ config.custom_setting }} in a theme
 
-
+$config['extra_css'] = '/assets/restricted/css/myfonts.css';
 
 
 
