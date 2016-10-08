@@ -17,7 +17,7 @@ Hiding: 1
 	ainsi que des noëls traditionnels et nouveaux.</p>
   <p>
 	Gagnants de la compétition provinciale OMFA 2013,
-	ce groupe sans but lucratif a donné 128 319 $
+	ce groupe sans but lucratif a donné 131 319 $
 	en bourses et en dons à des organismes de bienfaisance locaux.
 	Cet ensemble vocal s'est vu accorder l'honneur
 	d'être jugé parmi les meilleurs d'Ottawa-Gatineau.</p>
@@ -34,7 +34,7 @@ Hiding: 1
 		  <div id="slide-content" style="display: none;">
 			<div id="slide-content-0">
 			  <h2>Auditions</h2>
-			  <p>Les Chanteurs Stairwell feront des <a href="%base_url%/?auditions-fr">auditions pour des nouveaux membres en août.</a></p>
+			  <p>Les Chanteurs Stairwell feront des <a href="%base_url%/?auditions-fr">auditions pour des nouveaux membres en janvier.</a></p>
 			</div>
 
 			<div id="slide-content-1">
@@ -51,7 +51,8 @@ Hiding: 1
 
 			<div id="slide-content-3">
 			  <h2>Concerts</h2>
-			  <p>Les Chanteurs Stairwell présentent des concerts à <a href="%base_url%/?Concerts/Noel">Noël</a> et au printemps.</p>
+			  <p>Nos <a href="%base_url%/?Concerts/Noel">concerts de Noël</a> sont maintenant affichés.
+Achetez vos billets en ligne!</p>
 			</div>
 		  </div>
           <div class="col-sm-8" id="carousel-bounding-box">

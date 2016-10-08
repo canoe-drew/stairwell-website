@@ -15,7 +15,7 @@ Hiding: 1
 	sacred and secular music as well as settings of
 	traditional and new Christmas carols.</p>
   <p>Winners of the 2013 OMFA provincial competition,
-	this non-profit group has given $128,319
+	this non-profit group has given $131,319
 	in scholarships and donations to local charities.
 	They are ranked amongst the best of Ottawa choirs.</p>
   <p>Notre choeur est bilingue - ce page est également disponible <a href="%base_url%/?accueil">en français</a>.</p>
@@ -32,7 +32,7 @@ Hiding: 1
             <div id="slide-content-0">
               <h2>Auditions</h2>
 			  <p>The Stairwell Carollers will hold <a href="%base_url%/?auditions">auditions
-				  for new members in August</a></p>
+				  for new members in January</a></p>
             </div>
 
             <div id="slide-content-1">
@@ -51,9 +51,8 @@ Hiding: 1
 
             <div id="slide-content-3">
               <h2>Concerts</h2>
-              <p>The Stairwell Carollers' sing concerts at
-				<a href="%base_url%/?Concerts/Christmas-Season">Christmas</a>
-				and in the spring.</p>
+              <p>Tickets for our 
+				<a href="%base_url%/?Concerts/Christmas">Christmas Concerts</a> are now available. Buy online and save!</p>
             </div>
           </div>
           <div class="col-sm-8" id="carousel-bounding-box">
