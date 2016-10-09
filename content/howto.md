@@ -7,14 +7,74 @@ Page_Ignore: true
 Position: 0
 Hiding: 1
 ---
+# How To Put Pages on the Stairwell Carollers' (new) website
+
+This page is intended to set out how to prepare pages to be put on the new website:
+* How to write them
+* Where to put images, music, PDFs, etc.
+* How to "tag" them so that they show up in menus where you want them and so the English and the French match up.
 
 ## Adding a page to the site
 
-Write your page in [markdown](https://daringfireball.net/projects/markdown/syntax). This is easy using an editor such as [mou](http://25.io/mou/). Put key information about what the page is and how and where it should be displayed at the top of the file using the tags described below. (This site in fact uses a slightly broader version of markdown called [markdown extra](https://michelf.ca/projects/php-markdown/concepts/). For most purposes, you can just write plain markdown.)
+You don't have to write in HTML. Write your page in [markdown](https://daringfireball.net/projects/markdown/syntax). This is easy using an editor such as [mou](http://25.io/mou/). Put key information about what the page is and how and where it should be displayed at the top of the file using the tags described below. (This site in fact uses a slightly broader version of markdown called [markdown extra](https://michelf.ca/projects/php-markdown/concepts/). For most purposes, you can just write plain markdown.)
 
 Upload your page to the `contents` directory of the server. Where possible, use a short, easy-to-understand filename, lowercase only, which relates to the title of the page or makes it clear what the page is about. The filename will become part of the url, and may be something someone types in.
 
 If you have images, mp3s, PDFs which you want to use, put them in the `assets` directory of the server.
+
+## File layout
+
+```sh
+.
+├── assets
+|   ├── APPLICATION FORM-en.pdf
+|   ├── APPLICATION FORM-fr.pdf
+|   ├── Arche Agape.jpg
+|   ├── AuditeNova-cover.jpg
+|   ├── Away.mp3
+|   ├── Cabergers.mp3
+|   ├── CantateDomino-cover.jpg
+|   ├── CantateDomino.mp3
+|   ├── ChoirPortrait.jpg
+|   |   { ... }
+|   ├── pretty.mp3
+|   └── ubi.mp3
+├── config
+|   └── config.php
+├── content
+|   ├── index.md
+|   ├── accueil.md
+|   ├── CDs
+|   |   ├── accueil.md
+|   |   ├── audite-nova-en.md
+|   |   ├── audite-nova-fr.md
+|   |   ├── audite-nova-lyrics.md
+|   |   { ... }
+|   |   ├── index.md
+|   |   ├── laudemus-cum-armonia-en.md
+|   |   ├── laudemus-cum-armonia-fr.md
+|   |   ├── laudemus-cum-armonia-lyrics.md
+|   |   { ... }
+|   |   ├── qui-creavit-celum-en.md
+|   |   ├── qui-creavit-celum-fr.md
+|   |   └── qui-creavit-celum-lyrics.md
+|   ├── Concerts
+|   |   ├── Christmas.md
+|   |   ├── Noel.md
+|   |   └── index.md
+├── themes
+|   ├── default
+|   |   └── { Default pico theme }
+|   └── stairwell
+|       └── { Stairwell Carollers theme }
+├── lib
+|   └── { Internal pico files }
+├── plugins
+|   └── { Plugin files }
+├── vendor
+|   └── { Internal pico files }
+└── index.php
+```
 
 ## Style guide
 
@@ -72,7 +132,7 @@ Every page needs to have at least `Title`, `pid` and `Language` set.
 
 ```
 Title: Auditions
-Description: How to joint the Stairwell Carollers
+Description: How to join the Stairwell Carollers
 Keywords: auditions, join us 
 Position: 0 
 Page ignore: false
