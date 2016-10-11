@@ -24,6 +24,7 @@ If you have images, mp3s, PDFs which you want to use, put them in the `assets` d
 
 ## File layout
 
+In the diagram below, remember that you want to put images, music files, PDFs into `assets`. Your markdown files which will be the pages of the site go into `content`, in some cases in sub-folders. Remember that the `index.md` file is "magic" for folders - it's the default file which will be shown (including for the site as a whole - `content/index.md` is the front page of the site) and contains special codes which tell the website about the other files in the same directory. (See [Tags for Categories](#categories) below.)
 ```sh
 .
 ├── assets
@@ -86,7 +87,7 @@ Do not try to change fonts or font sizes - this will break how the pages appear 
 
 ## Making it multilingual
 
-The easiest way to do this is to prepare a page will all of the information (including the tags described below), then make a copy under a new name. Choose the new name according to the same rules.
+The easiest way to do this is to prepare a page with all of the information (including the tags described below), then make a copy under a new name. Choose the new name according to the same rules.
 
 If you used `index.md` in English, perhaps use `accueil.md` in French. (`index.md` is the default page loaded in a directory if no other page is specified.)
 
@@ -140,7 +141,7 @@ Language: en
 pid: auditions
 ```
 
-## Tags for Categories
+## Tags for Categories {#categories}
 
 A category is a folder under `content` which contains a set of related pages. The contents of the folder will automatically be made into a drop-down menu. Information about the category itself (in particular, its English and French titles) go in the `index.md` file in the folder.
 

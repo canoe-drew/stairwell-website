@@ -18,6 +18,7 @@ Page_Ignore: false
   <li class="active"><a data-toggle="tab" href="#purchase">Purchase</a></li>
   <li><a data-toggle="tab" href="#tracklisting">Track Listing</a></li>
   <li><a data-toggle="tab" href="#samples">Sample Tracks</a></li>
+  <li><a data-toggle="tab" href="#notes">Director's Notes</a></li>
 </ul>
 
 <div class="tab-content">
@@ -131,4 +132,10 @@ Page_Ignore: false
 	<dd>Composer: John Farmer (c. 1565-1605)</dd>
   </dl>
 </div>
+<div id="notes" class="tab-pane" markdown="1">
+## A word from our director...
 
+For 29 years now, the Stairwell Carollers have been performing in the Ottawa region, sharing the songs of the Renaissance as well as the lovely carols of Christmas. It gives me great pleasure as the director and founder of the Stairwell Carollers to present you with our very first CD of madrigals. At last, an opportunity to treat our listeners to the repertoire we sing outside of the Christmas season. I'm extremely pleased to inform you that, once again, proceeds from this new CD will help countless charitable organizations in our area. Since 1997, our CD sales have generated over $20,000.00 in donations to local charities: The Cancer unit of the Civic Hospital, Ronald McDonald House, Bruce House, the Multiple Sclerosis Society, Shepherds of Good Hope, la Société de l'autisme de l'Ontario, Le Cite Ami, & the Elizabeth Bruyère home. With your help, the Stairwell Carollers will continue fulfilling their charitable mandate for many more years to come. Thank you for your support. Now sit back and enjoy!
+
+</div>
+</div>

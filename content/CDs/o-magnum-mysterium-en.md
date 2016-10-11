@@ -20,6 +20,7 @@ Hiding: 1
 <li><a data-toggle="tab" href="#reviews">Reviews</a></li>
 <li><a data-toggle="tab" href="#tracklisting">Track Listing</a></li>
 <li><a data-toggle="tab" href="#samples">Sample Tracks</a></li>
+<li><a data-toggle="tab" href="#notes">Director's Notes</a></li>
 </ul>
 
 <div class="tab-content">
@@ -45,8 +46,6 @@ Hiding: 1
     </form>
       </div>
   </div>
-</div>
-
 </div>
 
 <div id="reviews" class="tab-pane">
@@ -130,5 +129,31 @@ contemplation on the mystery of Christ’s birth and rings out with joyful ‘Al
 	<dd>Arr: John Rutter</dd>
   </dl>
 </div>
+<div id="notes" class="tab-pane" markdown="1">
+## A word from our Director...
 
-<div
+As we enter our 38th season of singing in Ottawa/Gatineau, I look back with pride on the Stairwell Carollers' accomplishments.
+We started in 1977, singing in the residence stairwells of Ottawa University and went on to sing unpaid on buses and in the
+streets, in hospitals, hospices, nursing homes, malls and more. Our fundraising began in 1986 with a CFMO recording on vinyl,
+entitled "_Christmas with the Stairwell Carollers_" which raised over $55,000 for Ronald McDonald House. Ten years later, with
+the release of our first CD "_Qui creavit celum_", our philanthropic mandate was set. Our total is now over $122,000 in donations
+and music scholarships to more than 30 local charitable groups and university students.
+
+I thank all who have been part of this journey since my choir's humble heginnings. Some have been along for the ride from the
+start, many others have sung with us for over 22 years.
+
+Since our last CD, the Carollers once again placed first in the Ontario Music Festival Association 2013 provincial competition.
+_Eya, ega, gaudeamus_ also placed first in the Amadeus Choir Carol Competition. My composition _Mourning Dove_ has been
+performed on the Canada Peace Tower carillon many times, along with my arrangements of _Wassail Song_ and _Ça bergers, assemblons nous_.
+
+_O magnum mysterium_ is our 5th Christmas CD; the title track is my 9th original composition. Now that I'm retired from
+teaching I hope to create many more compositions and arrangements for my choir to perform.
+
+The Stairwell Carollers continue to spread the joy of the season with Christmas carol concerts. In spring, sacred and secular songs from
+the Medieval era to present day are our focus, sung to a growing audience in the Ottawa/Gatineau area.
+
+This CD is a celebration of these achievements, and l offer it to you with my best wishes.
+
+Watch for our next CD in 2018!
+</div>
+</div>

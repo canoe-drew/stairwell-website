@@ -22,6 +22,7 @@ Page_Ignore: false
   <li class="active"><a data-toggle="tab" href="#purchase">Purchase</a></li>
   <li><a data-toggle="tab" href="#tracklisting">Track Listing</a></li>
   <li><a data-toggle="tab" href="#samples">Sample Tracks</a></li>
+  <li><a data-toggle="tab" href="#notes">Director's Notes</a></li>
 </ul>
 
 <div class="tab-content">
@@ -123,4 +124,23 @@ Page_Ignore: false
 	  <dd>arr. Pierre Massie</dd>
 	</dl>
   </div>
+
+<div id="notes" class="tab-pane" markdown="1">
+## A word from our director...
+
+What an incredible run it has been so far wilh the Stairwell Carollers. Christmas 2007 marked our
+30th anniversary and, in celebration, we reunited former carollers from across Canada for our
+Christmas celebralions. Current members, along with 70 alumni, helped us kick off the festivities with
+a reunion party at the glorious Beechwood Cemetery Reception Hall. The Christmas feeling was
+magical, and the surroundings were enchanting. At our 30th Anniversary Concert on December 15th,
+at St. Charles church in Ottawa, the alumni joined us "en masse", to sing the last two carols of the
+night. I have to say, I was momentarily speechless when our MC read the personal letter of
+congratulations and praise from Sir David Willcoks. It was, for me, lhe icing on lhe cake.
+
+This CD is a personal landmark. It was recorded a year after our 30th anniversary, and includes many of my own arrangements and compositions, created since the 2003 release of "Mourning Dove". Also, the repertoire is very challenging; it represents the journey this choir has taken since its very humble beginnings in 1977.
+
+Now sit back and enjoy!
+
+</div>
+
 </div>

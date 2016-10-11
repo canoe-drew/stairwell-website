@@ -30,9 +30,9 @@ Hiding: 1
           <div class="col-sm-4" id="carousel-text"></div> <!-- This "empty" div gets filled with the text below -->
           <div id="slide-content" style="display: none;">
             <div id="slide-content-0">
-              <h2>Auditions</h2>
-			  <p>The Stairwell Carollers will hold <a href="%base_url%/?auditions">auditions
-				  for new members in January</a></p>
+              <h2>Concerts</h2>
+              <p>Tickets for our 
+				<a href="%base_url%/?Concerts/Christmas">Christmas Concerts</a> are now available. Buy online and save!</p>
             </div>
 
             <div id="slide-content-1">
@@ -49,27 +49,19 @@ Hiding: 1
 				is now on sale!</p>
             </div>
 
-            <div id="slide-content-3">
-              <h2>Concerts</h2>
-              <p>Tickets for our 
-				<a href="%base_url%/?Concerts/Christmas">Christmas Concerts</a> are now available. Buy online and save!</p>
-            </div>
           </div>
           <div class="col-sm-8" id="carousel-bounding-box">
             <div class="carousel" id="myCarousel" >
               <!-- Carousel items -->
               <div class="carousel-inner">
                 <div class="active item" data-slide-number="0">
-                  <img src="assets/SCinRideauChapel-carousel.jpg"></div>
+                  <img src="assets/Spring Concert 2016 - Almonte-carousel.jpg"></div>
 
                 <div class="item" data-slide-number="1">
                   <img src="assets/Immigrant Services-carousel.jpg"></div>
 
                 <div class="item" data-slide-number="2">
                   <img src="assets/OMagnumMysterium-cover-carousel.jpg"></div>
-
-                <div class="item" data-slide-number="3">
-                  <img src="assets/Spring Concert 2016 - Almonte-carousel.jpg"></div>
 
               </div><!-- Carousel nav -->
               <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">

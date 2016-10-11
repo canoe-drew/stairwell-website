@@ -33,8 +33,9 @@ Hiding: 1
 		  <div class="col-sm-4" id="carousel-text"></div>
 		  <div id="slide-content" style="display: none;">
 			<div id="slide-content-0">
-			  <h2>Auditions</h2>
-			  <p>Les Chanteurs Stairwell feront des <a href="%base_url%/?auditions-fr">auditions pour des nouveaux membres en janvier.</a></p>
+			  <h2>Concerts</h2>
+			  <p>Nos <a href="%base_url%/?Concerts/Noel">concerts de Noël</a> sont maintenant affichés.
+				Achetez vos billets en ligne!</p>
 			</div>
 
 			<div id="slide-content-1">
@@ -49,24 +50,17 @@ Hiding: 1
 				maintenant en vente!</p>
 			</div>
 
-			<div id="slide-content-3">
-			  <h2>Concerts</h2>
-			  <p>Nos <a href="%base_url%/?Concerts/Noel">concerts de Noël</a> sont maintenant affichés.
-Achetez vos billets en ligne!</p>
-			</div>
 		  </div>
           <div class="col-sm-8" id="carousel-bounding-box">
 			<div class="carousel" id="myCarousel">
               <!-- Carousel items -->
               <div class="carousel-inner">
 				<div class="active item" data-slide-number="0">
-                  <img src="assets/SCinRideauChapel-carousel.jpg"></div>
+          <img src="assets/Spring Concert 2016 - Almonte-carousel.jpg"></div>
 				<div class="item" data-slide-number="1">
-                  <img src="assets/Immigrant Services-carousel.jpg"></div>
+          <img src="assets/Immigrant Services-carousel.jpg"></div>
 				<div class="item" data-slide-number="2">
-                  <img src="assets/OMagnumMysterium-cover-carousel.jpg"></div>
-				<div class="item" data-slide-number="3">
-                  <img src="assets/Spring Concert 2016 - Almonte-carousel.jpg"></div>
+          <img src="assets/OMagnumMysterium-cover-carousel.jpg"></div>
               </div><!-- Carousel nav -->
               <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
 				<span class="glyphicon glyphicon-chevron-left"></span>
