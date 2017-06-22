@@ -18,6 +18,7 @@ Page_Ignore: false
   <li class="active"><a data-toggle="tab" href="#purchase">Achats</a></li>
   <li><a data-toggle="tab" href="#tracklisting">Liste des chansons</a></li>
   <li><a data-toggle="tab" href="#samples">Écouter les extraits</a></li>
+  <li><a data-toggle="tab" href="#notes">Message du directeur</a></li>
 </ul>
 <div class="tab-content">
   <div id="purchase" class="tab-pane active">
@@ -121,4 +122,30 @@ Page_Ignore: false
   </dl>
 </div>
 
+<div id="notes" class="tab-pane" markdown="1">
+## Message de notre Directeur...
+
+C'est en 1977 que commençait ma belle aventure avec les Chanteurs Stairwell. Je faisais alors un baccalauréat
+en musique à l'Universite d'Ottawa. J'ai pensé que ce serait amusant de réunir quelques amis dans les cages
+d'escalier de la residence universitaire pour sérénader nos camarades avec des chants de Noël. Ainsi, l'echo
+portait le son de nos voix pour égayer ces étudidiants qui se préparaient fébrilement aux examens. Cette
+expérience m'a séduit. Trois années plus tard, le groupe avait adopté un style rappelant celui des troubadours
+et l'interét croissant que je portais à la musique profane et sacrée de la Renaissance culminait en un premier
+concert printanier.
+
+En 1997, nous gravions notre premier CD de Noël, _Qui creavit celum_, qui fut suivi de trois autres CD de Noël.
+Puis, en 2006, j'ai finalement realisé mon rêve de produire un CD dédié à la musique profane et sacrée de la
+Renaissance en enregistrant _Audite nova_, une selection de mes madrigaux préférés.
+
+Aujourd'hui, je suis ravi de vous offrir notre septième CD, intitulé _Cantate Domino_ (Chantez au Seigneur!),
+une anthologie des chefs-d'œuvre sacrés de la Renaissance. Par un heureux hasard, la production et le
+lancement du CD en 2012 coïncident avec le 400ième anniversaire de la mort de Hans Leo Hassler et 
+_Cantate Domino_ est une de ses œuvres séminales.
+
+Laissez aller votre imagination! Vous êtes au XVIe siècle... Les compositeurs qui figurent sur ce CD sont les
+vedettes les plus en vogue. Leurs œuvres  figurent en tête du palmarès. Prenez un moment pour relaxer, avec
+un flacon d’hydromel, et laissa—vous bercer par les harmonies envoûtantes de ces chants sacrés de la
+Renaissance que j’ai choisis pour vous.
+
+</div>
 </div>

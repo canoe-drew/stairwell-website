@@ -18,7 +18,7 @@ Page_Ignore: false
 # *"Adeste fideles"*
 </div>
 
-le vendredi, 16 décember - Église presbytérienne Knox
+le vendredi, 16 décembre - Église presbytérienne Knox
 :	[120, rue Lisgar, Ottawa (ON)](https://goo.gl/maps/NwtF81iwdFv), 19h30.
 
 le samedi, 17 décembre - Église anglicane St-Columba
@@ -65,5 +65,5 @@ le vendredi, 2 décembre - Église unie Trinity
 le samedi, 3 décembre - Église anglicane St-Thomas
 :	[1619, rue Stittsville Main, Stittsville, (ON)](https://goo.gl/maps/ZgZwS), 19h30.
   
-le vendredi, 9 décembre - SÉglise St Mark's the Evangelist
+le vendredi, 9 décembre - Église St Mark's the Evangelist
 :	[1606, ave Fisher, Ottawa, (ON)](https://goo.gl/maps/mfP9WgJTaWS2), 19h30.

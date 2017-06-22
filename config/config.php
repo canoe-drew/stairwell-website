@@ -86,6 +86,8 @@ $config['PicoCategorizedPages.enabled'] = true;    // Force PicoCategorizedPages
 
 $config['PicoMenuHiding.enabled'] = true;
 
+$config['PicoXMLSitemap.enabled'] = false;
+
 $config['PicoMultiLanguage.enabled'] = true;
 
 /*

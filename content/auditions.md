@@ -8,11 +8,9 @@ keywords: auditions, join us
 ---
 # Auditions
 
-The Stairwell Carollers hold auditions regularly.
+The Stairwell Carollers have completed their auditions for this season. 
 
-We are presently looking for Sopranos, Tenors and Basses for Fall 2016.
+Thank you all who auditioned and congrats to our new members who were successful.
 
-To qualify, all you need is a solid voice, a good ear and a great attitude. 
-Reading music is an asset but not a necessity.
-
-Auditions will take place mid to late August. For more info, [send us an email](mailto:info@stairwellcarollers.com).
+Our next auditions will take place mid January.
+For more info, [send us an email](mailto:info@stairwellcarollers.com).

@@ -20,6 +20,7 @@ Hiding: 1
 <li><a data-toggle="tab" href="#reviews">Critiques</a></li>
 <li><a data-toggle="tab" href="#tracklisting">Liste des chansons</a></li>
 <li><a data-toggle="tab" href="#samples">Écouter les extraits</a></li>
+<li><a data-toggle="tab" href="#notes">Message du directeur</a></li>
 <</ul>
 
 <div class="tab-content">
@@ -128,5 +129,32 @@ contemplation on the mystery of Christ’s birth and rings out with joyful ‘Al
 	<dd>Harmonisation de John Rutter</dd>
   </dl>
 </div>
+<div id="notes" class="tab-pane" markdown="1">
+## Message de notre Directeur...
 
-<div>
+A l'aube de notre 38e saison de chant choral, je ressens beaucoup de fierté devant les réalisations des Chanteurs Stairwell. En
+1977, nous chantions dans les cages d'escalier des résidences de l'Université d'Ottawa. Nous sommes ensuite allés chanter dans les
+places publiques, les autobus, les résidences pour aines, etc. En 1986, nous amorcions nos cueillettes de fonds, grâce è une
+initiative de CFMO, réalisant un disque vinyle _Christmas with the Stairwell Carollers_, qui nous permit d'amasser plus de
+55 000 $ pour la Maison Ronald McDonald. Dix ans plus tard, avec notre premier CD, _Qui creavit Celum_, notre mission
+philanthropique avait pris son envol. Depuis, nous avons donné plus de 122,000 $ à des organismes locaux et à des
+étudiants en musique.
+
+J'en profite pour remercier tous ceux et celles qui ont fait partie de cette aventure depuis nos modestes débuts. Quelques choristes
+sont du voyage depuis les premiers jours, et plusieurs y participent depuis 22 ans et plus.
+
+En 2013, nous avons a nouveau été lauréats du concours de l'Association des festivals de musique de l'Ontario. Ma composition _Eya, eya,
+gaudeamus_ a remporté la palme du Amadeus Choir Carol Competition. Une autre de mes compositions, _Mourning Dove_, ainsi que mes
+arrangements de _Wassail Song_ et _Ça bergers, assemblons nous_ ont été joués plusieurs fois au carillon de la Tour de la Paix du Parlement du Canada.
+
+_O magnum mysterium_ est le titre de notre 5e CD, la plage-titre étant ma 9e composition. Maintenant retraité de l'enseignement,
+je compte me consacrer de plus en plus à la composition et aux arrangements musicaux.
+
+Les Chanteurs Stairwell veulent poursuivre leur mission de répandre la joie durant la période de Noel et de présenter, au
+printemps, des chants sacres et profanes de l'époque médiévale a aujourd'hui, a nos auditoires de la région d'Ottawa-Gatineau.
+
+Ce CD veut célébrer nos réalisations, et je vous l'offre avec grand plaisir.
+
+Soyez à l'affut de notre prochain CD en 2018!
+</div>
+</div>

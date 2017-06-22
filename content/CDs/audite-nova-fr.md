@@ -132,3 +132,12 @@ Page_Ignore: false
 	<dd>Compositeur: John Farmer (c. 1565-1605)</dd>
   </dl>
 </div>
+
+<div id="notes" class="tab-pane" markdown="1">
+## Un message de notre directeur....
+
+Cela fait maintenant 29 ans déjà que les Chanteurs Stairwell présentent leur musique chorale a cappella dans la région d'Ottawa, puisant autant dans le répertoire de la Renaissance que dans celui, richissime, de la fete de Noël. J'ai l'immense plaisir, en tant que directeur-fondateur des Chanteurs Stairwell, de vous offrir notre tout premier CD de madrigaux. Nous avons enfin la chance de faire cadeau à nos auditeurs de notre répertoire favori en-dehors de celui de Noël. Les recettes de ce disque iront à nouveau vers des organismes de charité de la région. Depuis 1997, les recettes de nos CD nous ont permis de donner plus de 20 000 $ à des œuvres telles que l'Unité du cancer de l'Hôpital Civic, la Maison de Ronald McDonald, la Maison Bruce, la Société de la sclérose en plaques, les Bergers de l'espoir, le Gîte Ami, les sociétés de l'autisme d'Ottawa et de l'Outaouais, et le Centre Elisabeth Bruyère. Grâce à votre appui indéfectible, nous comptons poursuivre notre action communautaire pendant de nombreuses anne’es. Merci beaucoup et... bonne écoute!
+
+</div>
+
+</div>

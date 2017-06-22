@@ -19,9 +19,10 @@ Page_Ignore: false
 *Panorame d'hiver par Denyse Mageau.*
 
 <ul class="nav nav-tabs">
-<li class="active"><a data-toggle="tab" href="#purchase">Achats</a></li>
-<li><a data-toggle="tab" href="#tracklisting">Liste des chansons</a></li>
-<li><a data-toggle="tab" href="#samples">Écouter les extraits</a></li>
+  <li class="active"><a data-toggle="tab" href="#purchase">Achats</a></li>
+  <li><a data-toggle="tab" href="#tracklisting">Liste des chansons</a></li>
+  <li><a data-toggle="tab" href="#samples">Écouter les extraits</a></li>
+  <li><a data-toggle="tab" href="#notes">Message du directeur</a></li>
 </ul>
 
 <div class="tab-content">
@@ -126,5 +127,13 @@ Page_Ignore: false
 	  <dd>arr. Pierre Massie</dd>
 	</dl>
   </div>
+<div id="notes" class="tab-pane" markdown="1">
+## Message de notre directeur
 
+Quelle odyssée que celle des Chanteurs Stairwell! Noël 2007 a marqué notre 30e anniversaires que nous avons célébré en réunissant les ancients Chanteurs STairwell venus de partout au Canada. Les membres actuels, avec quelque 70 anciens, ont entamé la fête dans le magnifique cadre qu'est la salle des réceptions du Centre commémoratif national Beechwood. Il y avait de la magie dans l'air, et la chaleur de notre rencontre avait relégué au second plan le froid glacial à l'extérieur. À l'occasion de notre concert de Noël du 15 décembre à l'église Saint-Charles, à Ottawa, les anciens membres se sont joints à nous pour chanter, en masse, les deux derniers chants de Noël de la soirée. Je dois dire que je suis resté momentanément sans voix lorsque notre MC a lu la lettre personnelle de félicitations que j'ai reçue de Sir David Willcocks. Pour moi, c'était la cerise sur le gâteau.
+
+Ce CD est un jalon personnel. Nous le produisons une année après notre 30e anniversaires, et il inclut plusieurs de mes arrangements et compositions, créés depuis le lancement du CD "Mourning Dove", en 2003. De plus, le répertoire choisi est exigeant; il illustre le cheminement de la chorale depuis ses très humbles origines en 1977.
+
+Maintenant, relaxez et appréciez!
+</div>
 </div>

@@ -18,6 +18,7 @@ Page_Ignore: false
   <li class="active"><a data-toggle="tab" href="#purchase">Purchase</a></li>
   <li><a data-toggle="tab" href="#tracklisting">Track Listing</a></li>
   <li><a data-toggle="tab" href="#samples">Sample Tracks</a></li>
+	<li><a data-toggle="tab" href="#notes">Director's Notes</a></li>
 </ul>
 <div class="tab-content">
   <div id="purchase" class="tab-pane active">
@@ -118,6 +119,28 @@ Page_Ignore: false
 	</audio></dd>
 	<dd>Composer: Hans Leo Hassler</dd>
   </dl>
+</div>
+<div id="notes" class="tab-pane" markdown="1">
+## A word from our Director...
+
+My journey with the Stairwell Carollers began in 1977, as an Ottawa University Music Major. I thought it
+would be fun to gather some friends and go Christmas carolling in the residence stairwells. Our echoing
+voices cheered fellow students studying for exams, and I was hooked. Three years later the Carollers'
+signature troubadour style had solidiﬁed, and my developing interest in sacred and secular music of the
+Renaissance culminated in a spring season of song
+
+In 1997, we released our ﬁrst Christmas CD, _Qui creavit celum_. I'd hoped, one day, to do a secular and sacred
+Renaissance collection. Three Christmas CDs later, my craving for the secularwas satisﬁed when, in 2006,
+we released _Audite nova_, a compilation of my favourite Renaissance madrigals.
+
+Now, I'm thrilled to share with you our seventh CD, entitled _Cantate Domino_ (tr: Sing unto the lord), a
+collection of sacred pieces. How fitting that 2012 happens to be the 400th anniversary of the death of Hans
+Leo Hassler, and that _Cantate Domino_ is one of his seminal works.
+
+Imagine... you live in the 16th century. The composers on this CD are the pop stars of their time and their
+songs, the top 20 on the billboard charts. Sit back, relax with a flagon of honey mead, and enjoy this selection
+of my favourite sacred songs ofthe Renaissance.
+
 </div>
 
 </div>
